@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Home{
+    background-image: url(./services-2\ \(2\).jpg);
+    height: 460px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.ul li{
+    display: inline-block;
+    padding: 10px 20px;
+    border: 3px solid yellow;
+    margin: 50px 15px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+}
+h1{
+    color: yellow;
+    font-size: 80px;
+    margin-top: 40px;
+}
+p{
+    color: yellow;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.ul li:hover{
+color: blue;
+background-color: yellow;
+border: 5px solid blue;
+}
+.ul li a:hover{
+    color: blue;
+}

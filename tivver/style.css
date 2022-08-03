@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.out{
+    outline: solid black;
+}
+.css:hover{
+    border-radius: 5px;
+    background-color: aqua;
+}
+.how:hover{
+background-color: orange;
+}
+.losk:hover{
+background-color: pink;
+}
+.vedio:hover{
+    background-color: yellow;
+}

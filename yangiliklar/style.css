@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.sarlavha{
+    text-align: center;
+}
+.bosh-qismlar{
+
+}
+.yangiliklar{
+    display: flex;
+    justify-content: space-around;
+margin-top: 30px;
+}
+.yangilik1{
+width: 360px;
+}
+.yangilik2{
+    width: 360px;
+    }
+.malumot{
+    margin-left: 10px;
+}
+.rasm{
+    width: 350px;
+    height: 215px;
+}
+.sana{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+
+}
+i{
+    font-size: 18px;
+}

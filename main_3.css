@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.card{
+    background-image: url(rasm.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.fixed{
+    width: 100%;
+    background-color: rgb(10, 8, 124);
+    position: fixed;
+}
+
+.scroll{
+    height: 300px;
+    
+}
+.tugmalar{
+    margin : 20px 0 ;
+   
+}
+
+.tugmalar a{
+  
+    background-color:none;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-left: 82px;
+    margin-top: 30px;
+    }
+    .bj{
+        padding: 10px;
+        font-size: 50px;
+        color: blue;
+    }
+    .font{
+        font-size: 50px;
+    }
+    .size{
+        font-size: 50px;
+        color: rgb(255, 153, 0);
+    }
+    .bir{
+        font-size: 50px;
+    }
+    .ikki{
+        font-size: 50px;
+    }
+    .uch{
+        font-size: 50px;
+    }
+    .turt img{
+        border-radius: 80px;
+        padding: 20px;
+    }
+    .besh{
+        border-radius: 100px;
+        padding: 50px;
+    }
+    .hr{
+        font-size: 100px;
+        padding: 2px;
+    }
+    .qizil{
+        color: red;
+    }
+    .kok{
+        color: blue;
+    }
+    .sariq{
+        color: yellow;
+    }
+    .yashil{
+        color: green;
+    }
+    .pushti{
+        color: rgb(241, 100, 124);
+    }
+    .pix{
+   padding: 10px;
+   margin: 20px;
+    }
+    .tugmalar{
+        margin: 20px 0;
+        text-align: center;
+    }
+    .tugmalar a{
+        background-color: none;
+        border: 2px solid white;
+        padding: 8px;
+        text-align: center;
+        text-decoration: none;
+        color: white;
+        border-radius: 10px;
+        margin-left: 82px;
+        margin-top: 30px;
+    }
+    .tugmalar:hover{
+    background-color: blue;
+    color: aqua;
+    }
+    .mb{
+        padding: 80px;;
+        font-size: 65px;
+    }
+    .bgimg{
+        background-image: url(./jesko.jpg);
+    }

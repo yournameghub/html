@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.yuraklar:hover{
+    padding: 100px;
+    text-align: center;
+        color: blue;
+        cursor: pointer;
+        transform: scale(2.5);
+        transition: 6s;
+    }
+    .yuraklar{
+        color: green;
+        display: inline-block;
+    }
+    .yuraklar:active{
+    border: 2px solid red;
+    }
+    .yuraklar{
+        color: white;
+}
+

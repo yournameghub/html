@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.td{
+  border-radius: 3;  
+  padding: auto;
+  margin: 3px;
+}
+}

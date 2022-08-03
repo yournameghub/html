@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.pad{
+    padding: 15%;
+
+}
+.oq{
+    color: white;
+}
+.b{
+    color: white;
+}
+.css{
+    background-color: white;
+    border-radius: 5px;
+}
+.bor{
+    width: 50%;
+    height: 50vh;
+    border-radius: 60% 60% 60% 60% ;
+}
+
+

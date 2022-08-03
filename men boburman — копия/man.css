@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    height: 80vh;
+    background-image: url(./services-2\ \(2\).jpg);
+    color: white;
+}
+.hover:hover{
+    border-radius: 100px;
+}
+.border{
+    
+    border-radius: 100vh;
+}
+.radius:hover{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: orange;
+    
+}
+.font{
+    color: yellow;
+    font-size: 20vh;
+}
+.yellow{
+    color: yellow;
+}
+    

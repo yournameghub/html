@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.href{
+    font-size: 1px;
+}
+.h1{
+    font-size: 100px;
+    padding: 0px;
+    margin: 50px;
+}
+.ak{
+    background-color: yellow;
+    padding: 100px;
+    font-size: 50px;
+}

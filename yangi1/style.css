@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Bobur {
+    clear: both;
+}
+.aktif {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profissional {
+    display: flex;
+    width: 50%;
+    height: 50vh;
+    overflow: auto;
+    background-color: black;
+}
+.profissional {
+    display: flex;
+    width: 50%;
+    height: 50vh;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    background-image: url(./01.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.A560051 {
+    width: 75%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    height: 50vh;
+    overflow: auto;
+    color: blue;
+}
+.alfa {
+    text-align: center;
+    padding: 3rem 0;
+    font-size: 100px;
+    color: blue;
+}

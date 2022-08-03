@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none solid yellow;
+}
+.q{
+    color: rgb(255, 188, 64);
+    font-size: 100px;
+}
+.w{
+margin-left: 160ex;
+}
+.e:hover{
+background-color: aqua;
+border-radius: 5ex;
+}
+.r{
+    font-size: 30px;
+}
+.t:hover{
+  background-color: black;
+  color: aliceblue;
+}
+.y:hover{
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+}

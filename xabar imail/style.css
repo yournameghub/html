@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.записать{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: none;
+}z
+
+body{
+    background-color: black;
+}

@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(./zorra.jpg);
+    background-size: cover;
+    height: 660px;
+    font-family: sans-serif;
+}
+.bir{
+    position: relative;
+    width: 385px;
+    height: 500px;
+    background: #ffffff94;
+    margin: 70px auto;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow:  0 35px 50px ;
+    backdrop-filter: blur(8px);
+}
+.bir h2{
+    margin-top: 0;
+    margin-bottom: 45px;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+}
+.bir .uch .turt{
+    position: relative;
+
+}
+.bir .turt span{
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    color: #fff;
+    font-size: 19px;
+
+}
+
+.bir .turt i{
+   position: absolute;
+   bottom: 10px;
+   right: 0;
+   color: #fff;
+   font-size: 22px;                                
+}
+.bir .uch input{
+    display: block;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #fff;
+    width: 100%;
+    padding: 10px 100px;
+    margin-bottom: 35px;
+    color: #fff;
+    box-sizing: border-box;
+    font-size: 19px;
+}
+.bir .uch input:focus{
+    outline: none;
+}
+.bir .mid{
+    color: #fff;
+    font-size: 18px;
+
+}
+
+.bir .mid a{
+    color: #fff;
+
+}
+.bir .mid button{
+    display: block;
+    width: 100%;
+    background: #1B88F5;
+    padding: 14px;
+    border: none;
+    margin: 20px;
+    margin-top: 15px;
+    font-size: 23px;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 6px;
+}
+.bottom{
+    position: absolute;
+    bottom: 0;
+    width: 91.5%;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+    font-size: 19px;
+    line-height: 50px;
+    color: #fff;
+
+}
+.bottom i{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    color: #fff;
+    background: #ffffff6b;
+    float: right;
+    cursor: pointer;
+}
+.bottom i:hover{
+    background: #1B88F5;
+    
+}
+.bottom a {
+    color: #fff;
+}
+.ikki{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 140px;
+}

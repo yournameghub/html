@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <style>
+            .main{
+                display:flex;
+                text-align:center;
+                align-items:center;
+                margin-top:300px;
+                line-height:50px;
+                justify-content:center;
+            }
+            .load{
+                height:50px;
+                width:50px;
+                border-radius:50%;
+                background:rgb(0, 128, 11);
+                margin:2px;
+                font-weight:bolder;
+                color:white;
+                animation:animate 3s alternate infinite;
+            }
+            @keyframes animate{
+                0%{
+                    transform:translateX(0px);
+                }
+                50%{
+                    transform:translateX(-30px);
+                }
+                100%{
+                    transform:translateX(0px);
+                }
+            }
+            .load:nth-child(1){
+                animation-delay:.2s;
+            }
+            .load:nth-child(2){
+                animation-delay:.4s;
+            }
+            .load:nth-child(3){
+                animation-delay:.6s;
+            }
+            .load:nth-child(4){
+                animation-delay:.8s;
+            }
+            .load:nth-child(5){
+                animation-delay:1s;
+            }
+            .load:nth-child(6){
+                animation-delay:1.2s;
+            }
+            .load:nth-child(7){
+                animation-delay:1.4s;
+            }
+            .load:nth-child(8){
+                animation-delay:1.6;
+            }
+        </style>
+    </head>
+<body>
+    <div class="main">
+        <div class="load">B</div>
+        <div class="load">O</div>
+        <div class="load">B</div>
+        <div class="load">U</div>
+        <div class="load">R</div>
+        <div class="load">J</div>
+        <div class="load">O</div>
+        <div class="load">N</div>
+    </div>
+</body>
+</html>

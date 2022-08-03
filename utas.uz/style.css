@@ -1,0 +1,361 @@
+*{
+   margin: 0;
+   padding: 0;
+   text-decoration: none;
+}
+.bir{
+    margin-left: 50px;
+}
+
+    
+.ikki{
+    background-color: rgb(109, 196, 109);
+    width: 150px;
+    height: 50px;
+    outline: rgb(0, 0, 0);
+  border-radius: 5px;
+}
+.ikk{
+    background-color: rgb(96, 96, 224);
+    width: 180px;
+    height: 50px;
+    outline: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.oq{
+    color: white;
+}
+.kuk :hover{
+    color: rgb(68, 68, 143);
+   
+    color: rgb(69, 224, 69);
+}
+ul li:hover{
+    display: inline-block;
+    color: rgb(68, 68, 143);
+    color: rgb(81, 206, 81);
+}
+li{
+    color: rgb(68, 68, 143);
+    display: inline-block;
+    margin-left: 20px;
+    padding: 40px;
+
+}
+.rang{
+    display: inline-block;
+    margin-left: 20px;
+    padding: 40px;
+}
+.rang{
+    background-color: rgb(245, 240, 240);
+    width: 100%;
+    height: 90px;
+    margin-left: 0%;
+    padding: 0%;
+    color: rgb(68, 68, 143);
+}
+.font{
+    font-size: 40px;
+    color: white;
+    padding: 100px;
+    outline: blue;
+}
+.yashil{
+    background-color: rgb(126, 255, 126);
+    width: 120px;
+    height: 30px;
+    outline: rgb(0, 0, 0);
+    color: white;
+    border-radius: 5px;
+}
+.qora{
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    height: 30px;
+    outline: rgb(0, 0, 0);
+    color: white;
+    border-radius: 5px;
+}
+.oq{
+    color: white;
+}
+.s{
+    padding: 80px;
+    font-size: 40px;
+    color: rgb(106, 16, 190);
+}
+.y{
+    display: inline-block;
+    color: rgb(72, 240, 72);
+   margin-left: 80px;
+}
+hr{
+    width: 100px;
+    height: 1px;
+    background-color: rgb(59, 255, 69);
+    margin-left: 75px;
+}
+.su hr{
+    width: 20px;
+    display: inline-block;
+    color: rgb(72, 240, 72);
+   margin-left: 800px;
+}
+.der{
+    width: 0.1px;
+    height: 0.1px;
+    border: 0.1px;
+    border-radius: 5px;
+    background-color: pink;
+    padding: 20px;
+}
+.yashi{
+    margin-right: 80px;
+    margin-left: 20px;
+     background-color: rgb(0, 153, 255);
+    width: 120px;
+    height: 30px;
+    outline: rgb(0, 0, 0);
+    color: black;
+    border-radius: 5px;
+}
+.td:hover{
+    background-color: blue;
+    
+}
+.chet{
+    padding: 20px;
+    color: rgb(119, 119, 255);
+}
+.ont{
+    font-size: 40px;
+    color: white;
+    padding: 100px;
+    outline: blue;
+}
+.loq{
+    color: #fff;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 100px;
+}
+.soq:hover{
+    color: rgb(209, 209, 209);
+    color: #fff;
+}
+.iqt:hover{
+    color: blue;
+    color: #fff;
+}
+.oqr{
+    color: #fff;
+    margin-left: 60px;
+}
+.che{
+  
+    margin-left: 0px;
+    color: rgb(119, 119, 255);
+}
+.kat{
+    width: 260px;
+    display: inline-block;
+    padding: 30px;
+}
+.cazdat{
+    background-image: url(./zorra.jpg);
+    height: 90vh;
+    background-size: cover;
+}
+.se{
+    color: #fff;
+    font-size: 40px;
+    padding: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.qo{
+    background-color: rgb(109, 196, 109);
+    width: 150px;
+    height: 50px;
+    outline: rgb(0, 0, 0);
+  border-radius: 5px;
+    margin-left: 100px;
+}
+.xazil{
+    margin-top: 100px;
+    color: blue;
+    font-size: 40px;
+    margin-left: 70px;
+}
+.bur {
+    margin-top: 50px;
+    margin-left: 70px;
+    border-inline-color: 1px solid gray;
+    border-radius: 5px;
+    width: 270px;
+    height: 320px;
+    background-color: rgb(243, 234, 234) ;
+}
+.as{
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.mo{
+    background-color: rgb(40, 255, 40);
+    width: 130px;
+    height: 40px;
+    outline: rgb(0, 0, 0);
+  border-radius: 5px;
+    margin-top: 70px;
+}
+.top{
+    margin-top: 100px;
+}
+.cen{
+    border: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+}
+.ur{
+    margin-left: 50px;
+    border-inline-color: 1px solid gray;
+    border-radius: 5px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(243, 234, 234) ; 
+    display: inline-block;
+}
+.qar{
+    color: rgb(33, 33, 150);
+    padding: 20px;
+}
+.input{
+    background-color: rgb(236, 236, 236);
+    width: 300px;
+    height: 40px;
+    border-radius: 3px;
+}
+.o{
+    background-color: rgb(40, 255, 40);
+    width: 130px;
+    height: 40px;
+    outline: rgb(0, 0, 0);
+  border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.siy{
+    color: rgb(88, 31, 141);
+   margin-left: 130px;
+    
+}
+.iy{
+    color: rgb(88, 31, 141);
+   margin-left: 130px;
+
+}
+.Aa{
+    color: rgb(88, 31, 141);
+    margin-left: 190px;
+}
+.B{
+    color: rgb(88, 31, 141);
+    margin-left: 225px;
+}
+.D{
+    color: rgb(88, 31, 141);
+    margin-left: 25px;
+}
+.E{
+    color: rgb(88, 31, 141);
+    margin-left: 100px;
+}
+.mat{
+    margin-top: 50px;
+}
+.mt{
+    margin-top: 20px;
+}
+.F{
+    color: rgb(88, 31, 141);
+    margin-left: 172px;
+}
+.G{
+    color: rgb(88, 31, 141);
+    margin-left: 175px;
+}
+.H{
+    color: rgb(88, 31, 141);
+    margin-left: 50px;
+}
+.I{
+    color: rgb(88, 31, 141);
+    margin-left: 100px;
+}
+.J{
+    color: rgb(88, 31, 141);
+    margin-left: 970px;
+}
+.tam{
+   margin-top: 50px;
+   margin-left: 130px; 
+}
+.K{
+    color: rgb(88, 31, 141);
+    margin-left: 450px;  
+}
+.L{
+    color: rgb(88, 31, 141);
+    margin-left: 170px;  
+}
+.va{
+    background-color: rgb(94, 255, 94);
+    width: 180px;
+    height: 50px;
+    outline: rgb(0, 0, 0);
+    border-radius: 5px;
+    margin-left: 170px;
+}
+.Boshqa{
+    background-color: rgb(94, 255, 94);
+    width: 180px;
+    height: 50px;
+    outline: rgb(0, 0, 0);
+    border-radius: 5px;
+   
+}
+#bobur{
+    width: 20px;
+    height: 50px;
+    color: red;
+}
+.katta i{
+    color: rgb(70, 70, 153);
+    width: 80px;
+    height: 30vh;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.L i{
+    font-size: 30px;
+}
+.I i{
+    font-size: 20px;
+    margin-left: -15px;
+    color: red;
+}
+.fli{
+    border: 80px;
+    border-radius: 50%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(9, 9, 204);
+    width: 70px;
+    height: 70px;
+  display: inline-block;
+    margin-left: 700px;
+}
+.range{
+    color: #fff;
+   margin-top: 10px;
+}

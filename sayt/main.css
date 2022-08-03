@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.orqafon{
+    background-image: url(./1550176277_0_0_3170_2048_1920x0_80_0_0_402220d0919841ac05eb5c6a5d939c8f.jpg);
+    background-size: cover;
+    height:100vh;
+    padding: 20px;
+    font-size: 80px;
+}
+ul li{
+    display: inline-block;
+    margin-left: 35px;
+    font-size: 35px;
+    color: whitesmoke;
+    font-family: 'League Gothic', sans-serif;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: ;
+
+}
+.jut{
+    padding: 100px;
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+}
+.border{
+    padding: 100px;
+    border-radius: 200px;
+}

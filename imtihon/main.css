@@ -1,0 +1,72 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.sarlavha{
+    text-align: center;
+}
+.bosh-qismlar{
+
+}
+.yangiliklar{
+    display: flex;
+    justify-content: space-around;
+margin-top: 30px;
+}
+.yangilik1{
+width: 360px;
+}
+.malumot{
+    margin-left: 10px;
+}
+.rasm{
+    width: 350px;
+    height: 215px;
+}
+.sana{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+
+}
+i{
+    font-size: 18px;
+}
+.font{
+   font-size: 300px;
+}
+.mp{
+    transform: scale(3.5);
+    transition: 6s;
+    width: 0%;
+    height: 60px;
+    text-align: center;
+    margin-left: 350px;
+}
+.bir{
+    color: aqua;
+    margin-left: 30px;
+}
+.u{
+    color: gray;
+}
+.foy{
+    padding: 50px;
+}
+.lenx{
+    padding: 40px;
+}
+.left{
+    padding: 100px;
+    margin-left: 50px;
+}
+.past{
+    color: blue;
+    font-size: 50px;
+}
+.mav{
+    color: blue;
+    padding: 100px;
+}

@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+background-size: cover;
+background-image: url(./Снимок\ экрана\ \(54\).png);
+}
+.color{
+    color: white;
+    padding: 1px;
+    font-size: 100px;
+}
+.class{
+    padding: 100px;
+    font-size: 50px;
+    color: white;
+}
+.qalin{
+    font-size: 40px;
+    color: white;
+}
+.paragh{
+    color: white;
+    background-color: ;
+}
+.oq{
+font-size: 20px;
+color: white;
+}
+.katta{
+    font-size: 50px;
+}
+.padding{
+    padding: 80px;
+}
+.katta{
+    font-size: 80px;
+    padding: 20px;
+}
+.ozku{
+    font-size: 80px;
+    padding: 20px;
+}
+.cmd{
+    color: white;
+    margin-top: 30px;
+    padding: 50px;
+    background-color: red;
+}
+.rang{
+    color: white;
+    margin-top: 30px;
+    padding: 50px;
+    background-color: red;
+}
+.atd{
+    color: white;
+    margin-top: 30px;
+    padding: 50px;
+    background-color: red;
+}
+.btd{
+    color: white;
+    margin-top: 30px;
+    padding: 50px;
+    background-color: red;
+}
+.dtd{
+    color: white;
+    margin-top: 30px;
+    padding: 50px;
+    background: red;
+}
+.etd{
+    color: white;
+    margin-top: 30px;
+    padding: 50px;
+    background: red;
+}
+.soa{}
